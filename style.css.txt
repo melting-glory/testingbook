@@ -1,0 +1,10 @@
+body {
+  background: #000;
+  background-image: url('https://i.imgur.com/SLSiG1q.gif');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: #fff;
+  padding: 25px;
+  font-family: sans-serif;
+}
